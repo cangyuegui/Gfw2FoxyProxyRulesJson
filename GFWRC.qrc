@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GFW/gfwlist.txt</file>
+    </qresource>
+</RCC>
