@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>GFW/gfwlist.txt</file>
+        <file>RES/add_ones.txt</file>
     </qresource>
 </RCC>

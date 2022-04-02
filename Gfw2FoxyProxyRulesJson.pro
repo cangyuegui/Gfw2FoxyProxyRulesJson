@@ -34,3 +34,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     GFWRC.qrc
+
+DISTFILES += \
+    RES/add_ones.txt

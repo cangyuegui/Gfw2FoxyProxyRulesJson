@@ -32,6 +32,13 @@ void Panel::on_convert_clicked()
     filetemp.flush();
     filetemp.close();
 
+    QFile addones(":/RES/add_ones.txt");
+    addones.open(QFile::ReadOnly);
+
+    urlContent += "\n";
+    urlContent += addones.readAll();
+    addones.close();
+
     QStringList urls = GetUrlList(urlContent);
     QJsonDocument jsonDoc = ToRule(urls);
 
