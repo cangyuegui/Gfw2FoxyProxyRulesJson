@@ -1,1 +1,2 @@
 |rargb.
+|static-file.com
