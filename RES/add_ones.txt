@@ -1,2 +1,4 @@
 |rargb.
 |static-file.com
+|tenhou.net
+|mjv.jp
