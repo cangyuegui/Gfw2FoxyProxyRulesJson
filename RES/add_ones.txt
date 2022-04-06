@@ -2,3 +2,5 @@
 |static-file.com
 |tenhou.net
 |mjv.jp
+|home-assistant.io
+|developer.nvidia.com
